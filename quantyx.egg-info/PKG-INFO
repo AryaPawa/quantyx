@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: quantyx
+Version: 0.1.0
+Summary: A beginner-friendly quant finance library
+Author-email: Arya <aryapawa903@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+
+# Quantyx
+
+Quantyx is a quantitative finance simulation library for pricing derivatives using Monte Carlo methods.
+
+Features:
+- GBM simulation
+- Stochastic volatility models
+- Exotic option pricing
+- Barrier options
+- Asian options

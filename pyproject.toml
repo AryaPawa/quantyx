@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quantyx"
+version = "0.1.0"
+description = "A beginner-friendly quant finance library"
+authors = [
+  { name="Arya", email="aryapawa903@gmail.com" }
+]
+dependencies = [
+  "numpy",
+  "scipy"
+]
+readme = "README.md"
+requires-python = ">=3.8"
