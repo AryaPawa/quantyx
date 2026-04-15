@@ -1,4 +1,4 @@
-# QuantLib — A Python Quantitative Finance Library
+# Quantyx — A Python Quantitative Finance Library
 
 A ground-up implementation of quantitative finance models, option pricing engines, and stochastic process simulators. Built from first principles — from the Black-Scholes PDE derivation to exotic option Monte Carlo pricing — this library covers the full stack of modern derivatives pricing.
 
